@@ -57,6 +57,7 @@ but still better than bare `make install`.
 
 Then:
 
+see https://stackoverflow.com/questions/21820715/how-to-install-latest-version-of-git-on-centos-7-x-6-x
 
 1. yum install http://opensource.wandisco.com/centos/6/git/x86_64/wandisco-git-release-6-1.noarch.rpm
 
